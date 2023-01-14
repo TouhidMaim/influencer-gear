@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+*{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    padding: 0 10%;
+}
+.header{
+    color: #3A3A3A;
+    margin-bottom: 100px;
+}
+.logo-nav-bar{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.logo h2{
+    font-size: 25px;
+    font-weight: 700;
+}
+.nav-bar nav ul{
+    list-style: none;
+    display: flex;
+}
+.nav-bar nav ul li{
+    margin-left: 20px;
+}
+.nav-bar nav ul li a{
+    text-decoration: none;
+    color: #3A3A3A;
+    font-weight: 700;
+}
+
+/* header-info */
+.header-info{
+    display: flex;
+    align-items: center;
+}
+.header-description h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.header-description p{
+    margin-bottom: 20px;
+}
+.btn{
+    border: none;
+    background-color: #E02C6D;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 25px;
+    font-weight: 700;
+    font-size: 16px;
+}
+/* header finish */
+
+
+
+
+
+
+
+
+
+
+
+
+
