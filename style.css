@@ -199,4 +199,14 @@
     .header-banner{
         height: 295px;
     }
+    .market-places{
+            grid-template-columns: repeat(1, 1fr);
+            justify-items: center;
+    }
+    .popular-collections{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .feature{
+        flex-direction: column-reverse;
+    }
 }
