@@ -196,12 +196,13 @@
     .header-banner img{
         width: 100%;
     }
-    .header-banner{
-        height: 295px;
+    .header-banner {
+        height: 226px;
     }
     .market-places{
             grid-template-columns: repeat(1, 1fr);
             justify-items: center;
+            row-gap: 20px;
     }
     .popular-collections{
         grid-template-columns: repeat(1, 1fr);
